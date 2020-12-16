@@ -1,2 +1,2 @@
 # Ping-Pong
-- It is an basic ping pong game coded on python using turtle module.
+- It is a basic ping pong game coded in python using turtle module.
